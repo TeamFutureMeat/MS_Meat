@@ -72,5 +72,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-CR_HERO/Saved/
-CR_HERO/Intermediate/
+Throbrave/Saved/
+Throbrave/Intermediate/
