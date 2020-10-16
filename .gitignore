@@ -74,9 +74,9 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 CR_HERO/Saved/
 CR_HERO/Intermediate/
-Throbrave/Saved/
-Throbrave/Intermediate/
+Throbrave/Saved/*
+Throbrave/Intermediate/*
 Throbrave/Intermediate/CachedAssetRegistry.bin
 Throbrave/Saved/AutoScreenshot.png
-Throbrave/Saved/Config/Windows/EditorPerProjjectUserSettings.ini
+Throbrave/Saved/Config/Windows/EditorPerProjectUserSettings.ini
 Throbrave/Saved/Logs/Throbrave.log
